@@ -35,14 +35,17 @@
 
 .App-body {
   height: 95vh;
+  max-height: 95vh;
   display: flex;
-  flex-direction: column; 
+  flex-direction: row;
   font-size: calc(10px + 2vmin);
 }
 
 .movie-list-container 
 {
   width: 50%;
+  max-height:95vh;
+  overflow: scroll;
 }
 
 @keyframes App-logo-spin {

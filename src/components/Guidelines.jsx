@@ -12,7 +12,7 @@ export default function Guidelines() {
         🔹 The API at https://movies-api-test-tech.onrender.com/movies returns a list of movies.
         </p>
         <p>
-        🔹 Your mission is to display the list of movies on the blank right-hand side.
+        🔹 Your mission is to display the list of movies on the right-hand side of this page.
         </p>
         <p>
         🔹 The list should display for each movie: id, title, release date.
