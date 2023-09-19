@@ -1,0 +1,30 @@
+.guidelines 
+{
+    width: 50%;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: stretch;
+    background-color: rgb(251, 225, 146);
+    border-right: 2px solid rgb(106, 106, 106);
+}
+
+.guidelines-body
+{
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin-left: 5%;
+}
+
+.guidelines h1
+{
+    font-size: 1.5em;
+}
+
+.guidelines p 
+{
+    text-align: left;
+    font-size: 20px;
+}
